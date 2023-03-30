@@ -20,7 +20,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Jukkales/NecroLens/master/icon.png",
+  "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
   "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
   "AcceptsFeedback": true
 }
