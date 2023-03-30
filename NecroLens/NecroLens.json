@@ -2,7 +2,7 @@
   "Author": "Jukka",
   "Name": "NecroLens",
   "InternalName": "NecroLens",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.1.0",
   "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Jukkales/NecroLens",

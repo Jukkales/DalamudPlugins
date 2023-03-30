@@ -6,7 +6,7 @@
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
         "Changelog": "",
         "InternalName": "NecroLens",
-        "AssemblyVersion": "1.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "RepoUrl": "https://github.com/Jukkales/NecroLens",
         "ApplicableVersion": "any",
         "Tags": [
@@ -29,6 +29,6 @@
         "DownloadLinkTesting": "https://github.com/Jukkales/DalamudPlugins/raw/main/NecroLens/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Jukkales/DalamudPlugins/raw/main/NecroLens/latest.zip",
         "DownloadCount": 1,
-        "LastUpdate": "1680195007"
+        "LastUpdate": "1680200449"
     }
 ]
