@@ -20,7 +20,7 @@
             "dungeon"
         ],
         "DalamudApiLevel": 8,
-        "IconUrl": "https://raw.githubusercontent.com/Jukkales/NecroLens/master/icon.png",
+        "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
         "ImageUrls": [
         ],
         "DownloadLinkInstall": "https://github.com/Jukkales/DalamudPlugins/raw/main/NecroLens/latest.zip",
