@@ -23,11 +23,11 @@
         "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
         "ImageUrls": [
         ],
-        "DownloadLinkInstall": "https://github.com/Jukkales/DalamudPlugins/raw/main/NecroLens/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Jukkales/NecroLens/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Jukkales/DalamudPlugins/raw/main/NecroLens/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Jukkales/DalamudPlugins/raw/main/NecroLens/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
         "DownloadCount": 1,
         "LastUpdate": "1680200449"
     }
