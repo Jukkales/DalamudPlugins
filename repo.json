@@ -4,9 +4,9 @@
         "Name": "NecroLens",
         "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "Changelog": "v1.0.3.4 updated for 6.45",
+        "Changelog": "v1.0.3.5 updated for 6.48. Sorry late!",
         "InternalName": "NecroLens",
-        "AssemblyVersion": "1.0.3.4",
+        "AssemblyVersion": "1.0.3.5",
         "RepoUrl": "https://github.com/Jukkales/NecroLens",
         "ApplicableVersion": "any",
         "Tags": [
@@ -28,7 +28,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
-        "DownloadCount": 2545,
-        "LastUpdate": "1689672467"
+        "DownloadCount": 3623,
+        "LastUpdate": "1694330323"
     }
 ]
