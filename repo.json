@@ -4,9 +4,9 @@
         "Name": "NecroLens",
         "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "Changelog": "v1.0.5.0 implemented /openchest command to try to interact with a chest without clicking",
+        "Changelog": "v1.0.5.1 Accursed Hoard optimizations",
         "InternalName": "NecroLens",
-        "AssemblyVersion": "1.0.5.0",
+        "AssemblyVersion": "1.0.5.1",
         "RepoUrl": "https://github.com/Jukkales/NecroLens",
         "ApplicableVersion": "any",
         "Tags": [
@@ -28,7 +28,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
-        "DownloadCount": 6254,
-        "LastUpdate": "1697983142"
+        "DownloadCount": 6726,
+        "LastUpdate": "1698082302"
     }
 ]
