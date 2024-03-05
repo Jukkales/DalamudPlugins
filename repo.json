@@ -5,7 +5,7 @@
   "Description" : "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
   "Changelog" : "v1.0.5.8 updated for 6.57",
   "InternalName" : "NecroLens",
-  "AssemblyVersion" : "v1.0.5.8",
+  "AssemblyVersion" : "1.0.5.8",
   "RepoUrl" : "https://github.com/Jukkales/NecroLens",
   "ApplicableVersion" : "any",
   "Tags" : [ "potd", "hoh", "eo", "esp", "radar", "sonar", "deep", "dungeon" ],
