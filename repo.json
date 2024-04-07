@@ -3,9 +3,9 @@
   "Name" : "NecroLens",
   "Punchline" : "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
   "Description" : "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-  "Changelog" : "v1.0.6.2 updated for 6.58h",
+  "Changelog" : "v1.0.7.0 opt in data collection and double chests content",
   "InternalName" : "NecroLens",
-  "AssemblyVersion" : "1.0.6.2",
+  "AssemblyVersion" : "1.0.7.0",
   "RepoUrl" : "https://github.com/Jukkales/NecroLens",
   "ApplicableVersion" : "any",
   "Tags" : [ "potd", "hoh", "eo", "esp", "radar", "sonar", "deep", "dungeon" ],
@@ -17,6 +17,6 @@
   "IsTestingExclusive" : false,
   "DownloadLinkTesting" : "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
   "DownloadLinkUpdate" : "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
-  "DownloadCount" : 16151,
-  "LastUpdate" : "1712075918"
+  "DownloadCount" : 17162,
+  "LastUpdate" : "1712492076"
 } ]
