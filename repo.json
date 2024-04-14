@@ -24,9 +24,9 @@
   "Name" : "HoardFarm",
   "Punchline" : "Become an accursed Hoarder!",
   "Description" : "Plugin to help farming DeepDungeon Hoards (...for you)",
-  "Changelog" : "v1.2.0.1 changed disabled command",
+  "Changelog" : "overlay, updates and safety features",
   "InternalName" : "HoardFarm",
-  "AssemblyVersion" : "1.2.0.1",
+  "AssemblyVersion" : "1.3.0.0",
   "RepoUrl" : "https://github.com/Jukkales/HoardFarm",
   "ApplicableVersion" : "any",
   "Tags" : [ "hoard", "farm", "help", "hoarder", "accursed", "achievement" ],
@@ -38,6 +38,6 @@
   "IsTestingExclusive" : false,
   "DownloadLinkTesting" : "https://github.com/Jukkales/HoardFarm/releases/download/download/latest.zip",
   "DownloadLinkUpdate" : "https://github.com/Jukkales/HoardFarm/releases/download/download/latest.zip",
-  "DownloadCount" : 132,
-  "LastUpdate" : "1712951277"
+  "DownloadCount" : 228,
+  "LastUpdate" : "1713101805"
 } ]
