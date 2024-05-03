@@ -24,9 +24,9 @@
   "Name" : "HoardFarm",
   "Punchline" : "Become an accursed Hoarder!",
   "Description" : "Plugin to help farming DeepDungeon Hoards (...for you)",
-  "Changelog" : "camera alignment and tamed autoretainer",
+  "Changelog" : "v1.5.2.4 move repo to punish",
   "InternalName" : "HoardFarm",
-  "AssemblyVersion" : "1.5.2.3",
+  "AssemblyVersion" : "1.5.2.4",
   "RepoUrl" : "https://github.com/Jukkales/HoardFarm",
   "ApplicableVersion" : "any",
   "Tags" : [ "hoard", "farm", "help", "hoarder", "accursed", "achievement" ],
@@ -38,6 +38,6 @@
   "IsTestingExclusive" : false,
   "DownloadLinkTesting" : "https://github.com/Jukkales/HoardFarm/releases/download/download/latest.zip",
   "DownloadLinkUpdate" : "https://github.com/Jukkales/HoardFarm/releases/download/download/latest.zip",
-  "DownloadCount" : 873,
-  "LastUpdate" : "1713890557"
+  "DownloadCount" : 1142,
+  "LastUpdate" : "1714745923"
 } ]
