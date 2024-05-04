@@ -3,9 +3,9 @@
   "Name" : "NecroLens",
   "Punchline" : "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
   "Description" : "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-  "Changelog" : "v1.0.7.2 move repo to punish",
+  "Changelog" : "v1.0.7.3 repo change things",
   "InternalName" : "NecroLens",
-  "AssemblyVersion" : "1.0.7.2",
+  "AssemblyVersion" : "1.0.7.3",
   "RepoUrl" : "https://github.com/Jukkales/NecroLens",
   "ApplicableVersion" : "any",
   "Tags" : [ "potd", "hoh", "eo", "esp", "radar", "sonar", "deep", "dungeon" ],
@@ -17,8 +17,8 @@
   "IsTestingExclusive" : false,
   "DownloadLinkTesting" : "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
   "DownloadLinkUpdate" : "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
-  "DownloadCount" : 19711,
-  "LastUpdate" : "1714858638"
+  "DownloadCount" : 20204,
+  "LastUpdate" : "1714859444"
 }, {
   "Author" : "Jukka",
   "Name" : "HoardFarm",
